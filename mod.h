@@ -17,11 +17,11 @@ LevelRankTimes Mission4Times[30] = {
 	{ LevelIDs_HiddenBase, {3, 25}, {3, 20}, {3, 15}, {3, 10} },
 	{ LevelIDs_PyramidCave, {3, 45}, {3, 30}, {3, 15}, {3, 0} },
 	{ LevelIDs_DeathChamber, {4, 30}, {4, 0}, {3, 30}, {3, 0} },   //
-	{ LevelIDs_EternalEngine, {4, 40}, {4, 30}, {4, 20}, {4, 10} },
+	{ LevelIDs_EternalEngine, {4, 50}, {4, 40}, {4, 30}, {4, 20} },
 	{ LevelIDs_MeteorHerd, {4, 15}, {3, 45}, {3, 15}, {2, 45} },   //
 	{ LevelIDs_CrazyGadget, {4, 45}, {4, 40}, {4, 35}, {4, 30} },
 	{ LevelIDs_FinalRush, {4, 55}, {4, 50}, {4, 45}, {4, 40} },
-	{ LevelIDs_IronGate, {3, 30}, {3, 0}, {2, 40}, {2, 20} },
+	{ LevelIDs_IronGate, {3, 30}, {3, 0}, {2, 40}, {2, 20} }, // ~1, 40 with hover
 	{ LevelIDs_DryLagoon, {3, 15}, {2, 45}, {2, 15}, {2, 0} },     //
 	{ LevelIDs_SandOcean, {3, 45}, {3, 15}, {2, 45}, {2, 30} },
 	{ LevelIDs_RadicalHighway, {2, 55}, {2, 50}, {2, 45}, {2, 40} },
